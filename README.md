@@ -2,7 +2,7 @@
 
 # 💫 Bhaskar Battu:
 I'm currently open to new opportunities.<br>I'm looking to collaborate on exciting and impactful projects.<br>I'm currently learning new technologies to broaden my skill set.<br>Ask me about full-stack development, Java, Spring Boot, or React.js.<br>Fun fact: I love turning ideas into real-world applications that make a difference!<br><br>
-<img align="right" alt="coding"  width="400"src="![image](https://github.com/user-attachments/assets/d9e70ab4-f3b6-4455-b5a1-c4af312d0308)
+<img align="right" alt="coding"  width="400"src="![https://github.com/bhaskarbattu99/bhaskarbattu99/blob/main/Bhaskar%20Profile%20Picture.jpg)
 ">
 
 ## 🌐 Socials:
