@@ -2,7 +2,6 @@
 
 # 💫 Bhaskar Battu:
 I'm currently open to new opportunities.<br>I'm looking to collaborate on exciting and impactful projects.<br>I'm currently learning new technologies to broaden my skill set.<br>Ask me about full-stack development, Java, Spring Boot, or React.js.<br>Fun fact: I love turning ideas into real-world applications that make a difference!<br><br>
-<img align="right" alt="coding"  width="400"src="https://github.com/bhaskarbattu99/bhaskarbattu99/blob/main/Bhaskar%20Profile%20Picture.jpg">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itz_bhaskar_battu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhaskar-battu-5434b5255/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BattuBhaskar7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bhaskarbattu2033) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaskarbattu99@gmail.com) 
