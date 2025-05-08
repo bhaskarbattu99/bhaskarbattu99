@@ -1,4 +1,4 @@
-![logo](https://github.com/bhaskarbattu99/Bhaskar/blob/main/Bhaskar%20LinkedIn%20Banner%20(1).jpg)
+![logo](https://github.com/bhaskarbattu99/bhaskarbattu99/blob/main/1691463695925.jpg)
 
 # 💫 Bhaskar Battu:
 I'm currently open to new opportunities.<br>I'm looking to collaborate on exciting and impactful projects.<br>I'm currently learning new technologies to broaden my skill set.<br>Ask me about full-stack development, Java, Spring Boot, or React.js.<br>Fun fact: I love turning ideas into real-world applications that make a difference!<br><br>
